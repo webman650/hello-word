@@ -1,2 +1,2 @@
 # hello-word
-mon premier référentiel 
+salut les gens je suis nouveau sur github
